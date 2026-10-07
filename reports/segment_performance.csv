@@ -1,0 +1,5 @@
+segment,customers,avg_order_value,revenue
+Loyal,363,1806.0,6098848.89
+At Risk,309,1808.86,5223999.65
+New,314,1782.39,5215284.85
+High Value,213,1853.13,3671049.08
