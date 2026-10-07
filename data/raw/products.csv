@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_cost,base_price,supplier_lead_days
+1,Laptop,Electronics,292.14,590.38,5
+2,Headphones,Electronics,448.0,888.58,14
+3,Smartphone,Electronics,547.87,730.46,8
+4,Smartwatch,Electronics,146.59,426.28,9
+5,Jacket,Fashion,456.03,411.15,14
+6,Sneakers,Fashion,182.69,500.26,5
+7,Jeans,Fashion,77.29,738.34,8
+8,Backpack,Fashion,194.96,416.15,11
+9,Mixer,Home,14.75,186.39,10
+10,Chair,Home,376.16,709.05,4
+11,Lamp,Home,131.36,612.27,6
+12,Storage Box,Home,420.31,814.02,3
+13,Serum,Beauty,211.46,175.97,3
+14,Moisturizer,Beauty,411.59,717.96,14
+15,Perfume,Beauty,382.56,19.79,13
+16,Sunscreen,Beauty,278.74,541.3,12
+17,Coffee,Grocery,398.83,76.02,3
+18,Cereal,Grocery,398.51,770.99,14
+19,Pasta,Grocery,503.44,707.56,11
+20,Snacks,Grocery,162.88,820.55,15
